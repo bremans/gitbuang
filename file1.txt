@@ -1,3 +1,5 @@
 Ini file1
+Ditambah tono
+baris ketiga
 
 
